@@ -1,7 +1,7 @@
 ﻿{
-	"id": "SimpleProject",
-	"title": "Simple Project",
-	"description": "Just a simple project with a bunch of balls floating around the screen.",
+	"id": "Sierpenski-Triangle-Chaos-Game",
+	"title": "Sierpenski Triangle-Chaos Game",
+	"description": "Test",
 	"icons": [
 		"assets/icon32.png",
 		"assets/icon256.png"
@@ -20,13 +20,13 @@
 		{ "id": "twocans_everything", "prefix": "*" }
 	],
 	
-	"guidseed": "com.twocansandstring.demos.SimpleProject,v1,%TARGET_NAME%",
+	"guidseed": "com.twocansandstring.users.caveat",
 	
 	"vars": [
-		{ "name": "screen_width", "value": 640 },
-		{ "name": "screen_height", "value": 480 },
+		{ "name": "screen_width", "value": 1024 },
+		{ "name": "screen_height", "value": 600 },
 		{ "name": "use_beta_endpoint", "value": false },
-		{ "name": "game_title", "value": "Simple Project" },
+		{ "name": "game_title", "value": "Sierpenski Triangle-Chaos Game" },
 		{ "name": "initial_scene", "value": "MainScene" },
 		{ "name": "use_60_fps", "value": true },
 		{ "name": "enable_wasd", "value": true },
